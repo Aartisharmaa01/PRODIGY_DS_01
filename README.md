@@ -23,7 +23,7 @@ Histogram of Age Distribution
 - Created a histogram to visualise the Age distribution
 
 ### Conclusion
-The histogram illustrates the distribution of age among individuals in the dataset, with the highest concentration in the middle-age group.
+The histogram illustrates the distribution of age among individuals in the dataset, with the highest concentration in the middle-aged group.
 
 ## Author
 Aarti Sharma
